@@ -15,4 +15,4 @@ class Calculator:
         return x * 1.0 / y
 
     def square(x):
-        return x * x + 1
+        return x * x
