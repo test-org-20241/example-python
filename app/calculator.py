@@ -1,6 +1,7 @@
 class Calculator:
 
     def add(x, y):
+        print("HI")
         return x + y
 
     def subtract(x, y):
